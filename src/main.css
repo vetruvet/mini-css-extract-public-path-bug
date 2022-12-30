@@ -1,0 +1,3 @@
+html {
+    fake-prop: url(~./file2.ext2);
+}
